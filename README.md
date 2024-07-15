@@ -13,3 +13,6 @@ environment: {
     python: 3.12.4,
     pycharm: 2024,1,3 pro
 }
+
+Tesla Quarterly Revenue web link: "https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue"  # for question 2 
+GameStop Quarterly Revenue web link: "https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue" # for question 4
